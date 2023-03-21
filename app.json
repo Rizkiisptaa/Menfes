@@ -37,6 +37,10 @@
       "description": "grup id, untuk mengcomment dichannel menfess",
       "value": "-100"
     },
+    "CHANNEL_3": {
+      "description": "grup id, untuk mengcomment dichannel menfess",
+      "value": "-100"
+    },
     "CHANNEL_LOG": {
       "description": "channel log id, untuk melihat log user menfess",
       "value": "-100"
