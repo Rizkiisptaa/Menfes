@@ -1,6 +1,7 @@
+##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ArmanGG01/Menfes)</br>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ArmanGG01/Menfes/"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-black?style=flat&logo=heroku" width="150" height="30.00" /></a></p>
 
 #### Deploy on Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/1jKLr4)
