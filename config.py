@@ -14,6 +14,7 @@ db_name = os.getenv("DB_NAME", "telegram") #bisa diganti sesuai kebutuhan
 
 channel_1 = int(os.getenv("CHANNEL_1", "#"))
 channel_2 = int(os.getenv("CHANNEL_2", "#")) #untuk group comentar user
+channel_3 = int(os.getenv("CHANNEL_3", '#'))
 channel_log = int(os.getenv("CHANNEL_LOG", "#"))
 # =========================================================== #
 
