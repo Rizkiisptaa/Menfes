@@ -1,12 +1,12 @@
 {
-  "name": "Menfess bot fwb",
+  "name": "Bot Fwb Percobaan",
   "description": "mengirim pesan ke channel telegram secara anonymous",
   "keywords": [
     "telegram",
     "menfess",
     "fwb"
   ],
-  "repository": "https://github.com/Mhdkendyy/fwbbott",
+  "repository": "https://github.com/ArmanGG01/Menfes",
   "logo": "https://telegra.ph/file/a24d7daa6a191d6eb7176.jpg",
   "env": {
     "BOT_TOKEN": {
@@ -138,7 +138,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "basic"
+      "size": "eco"
     }
   }
 }
